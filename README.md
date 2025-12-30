@@ -40,6 +40,7 @@ Welcome to my repository! Below you will find a curated collection of interview 
 | [**☸️ Kubernetes**](./Kubernetes/kubernetes-interview-prep.md) | Pods, Services, Ingress, Helm, Architecture | 🚧 In Progress |
 | [**☁️ AWS**](./AWS/aws-interview-prep.md) | EC2, S3, IAM, VPC, Lambda, CloudWatch | 🚧 In Progress |
 | [**🤖 CI/CD**](./CI-CD/cicd-interview-prep.md) | Jenkins, Pipelines, GitHub Actions, Strategies | 🚧 In Progress |
+| [** Iac**](./IaC/iac-interview-prep.md) | Terraform, Cloudformation | 🚧 In Progress |
 | [**📜 Scripting**](./Scripting/scripting-interview-prep.md) | Bash, Python, RegEx, Automation | ⏳ Coming Soon |
 
 <br>
