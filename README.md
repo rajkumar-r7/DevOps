@@ -35,9 +35,9 @@ Welcome to my repository! Below you will find a curated collection of interview 
 
 | Topic | Description | Status |
 | :--- | :--- | :--- |
-| [**🐧 Linux**](./Linux/README.md) | File systems, Permissions, Networking, Systemd | 🚧 In Progress |
-| [**🐳 Docker**](./Docker/README.md) | Images, Containers, Networking, Volumes | 🚧 In Progress |
-| [**☸️ Kubernetes**](./Kubernetes/README.md) | Pods, Services, Ingress, Helm, Architecture | ⏳ Coming Soon |
+| [**🐧 Linux**](./Linux/linux-interview-prep.md) | File systems, Permissions, Networking, Systemd | 🚧 In Progress |
+| [**🐳 Docker**](./Docker/docker-interview-prep.md) | Images, Containers, Networking, Volumes | 🚧 In Progress |
+| [**☸️ Kubernetes**](./Kubernetes/kubernetes-interview-prep.md) | Pods, Services, Ingress, Helm, Architecture | 🚧 In Progress |
 | [**☁️ AWS**](./AWS/README.md) | EC2, S3, IAM, VPC, Lambda, CloudWatch | ⏳ Coming Soon |
 | [**🤖 CI/CD**](./CI-CD/README.md) | Jenkins, Pipelines, GitHub Actions, Strategies | ⏳ Coming Soon |
 | [**📜 Scripting**](./Scripting/README.md) | Bash, Python, RegEx, Automation | ⏳ Coming Soon |
