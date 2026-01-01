@@ -45,7 +45,7 @@ Welcome to my repository! Below you will find a curated collection of interview 
 | [**☁️ AWS**](./AWS/aws-interview-prep.md) | EC2, S3, IAM, VPC, Lambda, CloudWatch | 🚧 In Progress |
 | [**🤖 CI/CD**](./CI-CD/cicd-interview-prep.md) | Jenkins, Pipelines, GitHub Actions, Strategies | 🚧 In Progress |
 | [**🏗️ IaC**](./IaC/iac-interview-prep.md) | Terraform, Ansible, CloudFormation | 🚧 In Progress |
-| [**📈 Monitoring**](./Monitoring/monitoring-interview-prep.md) | Prometheus, Grafana, ELK Stack, Nagios | 🚧 In Progress |
+| [**📈 Monitoring**](./Monitoring/monitoring-logging-interview-prep.md) | Prometheus, Grafana, ELK Stack, Nagios | 🚧 In Progress |
 | [**📜 Scripting**](./Scripting/scripting-interview-prep.md) | Bash, Python, RegEx, Automation | ⏳ Coming Soon |
 
 <br>
